@@ -1,2 +1,10 @@
-# The-Sparks-Foundation-Tasks
-Here,I upload  task files of my data science &amp; business analytics internship provided by The Sparks Foundation . 
+The Sparks Foundation - Internship Data Science and Bussines analytics
+
+TASK-01
+Prediction Using Supervised ML
+
+From the given Dataset,predict the percentage score based on Hours of Studied.
+
+Data can be found at "http://bit.ly/w-data"
+
+AUTHOR :- Dhruv Patel
